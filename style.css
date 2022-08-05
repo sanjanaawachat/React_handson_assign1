@@ -1,0 +1,64 @@
+.App{
+    background-image: Linear-gradient(rgb(181, 226, 240),rgb(243, 176, 187),rgb(212, 212, 118));
+    height: 100%;
+}
+.text1{
+    text-shadow: 3px 3px 3px aquamarine;
+    
+}
+ .btn1{
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: rgb(210, 238, 144);
+    position: relative;
+    top: 100px;
+    left: -50px;
+    cursor: pointer;
+    
+}
+h1{
+    color: rgb(27, 10, 44);
+}
+.btn2{
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: rgb(210, 238, 144);
+    position: relative;
+    top: 100px;
+    left: 50px;
+    cursor: pointer;
+}  
+
+   .Functional{
+    height: 250px;
+    width: 500px;
+    background-color: rgb(156, 227, 178);
+    border: 5px solid black;
+    border-radius: 15px;
+    position: relative;
+    top: 10rem;
+}
+.First_card{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.Class{
+    height: 250px;
+    width: 500px;
+    background-color: rgb(181, 239, 239);
+    border: 5px solid black;
+    border-radius: 15px;
+    position: relative;
+    top: -6rem;
+    left: 600px;
+}
+.Second_card{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+
+
+   
